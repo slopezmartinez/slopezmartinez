@@ -1,7 +1,8 @@
 ## Hi there 👋 My name is Sarah 
+<img width="1686" height="195" alt="ascii-art-text" src="https://github.com/user-attachments/assets/824938e3-3f14-4298-aaac-3c99da7097ba" />
 
-## I am a current student of the University of North Carolina at Charlotte.
-##  I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
+I am a current student of the University of North Carolina at Charlotte.
+I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
