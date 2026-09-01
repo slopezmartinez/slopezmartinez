@@ -1,10 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Sarah 
 
-<!--
-**slopezmartinez/slopezmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## I am a current student of the University of North Carolina at Charlotte.
+##  I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
