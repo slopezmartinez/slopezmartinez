@@ -6,7 +6,7 @@
 
 I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
 
-<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/55d2860a-47b7-44e4-a144-2f119717be2e" /> Socials <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/495faff3-da7d-405c-a1be-daaf82e021c6" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/55d2860a-47b7-44e4-a144-2f119717be2e" /> Socials <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/495faff3-da7d-405c-a1be-daaf82e021c6" />
 
 www.linkedin.com/in/sarah-lopez-martinez-8105a52b0
 
@@ -35,11 +35,7 @@ You can contact me at sarahlopez15468@gmail.com
 ## Project Management & Documentation 
 - Jira - Confluence -
   
-<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/f1428ec8-7831-4134-ae95-939d9e820a2e" />
-
-## Productivity <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/2e99b5e6-bb11-4778-9e6b-6d6485fca5b4" />
-
-# Microsoft Office Suite: Excel, Word, PowerPoint
+## Microsoft Office Suite: Excel, Word, PowerPoint
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d80e656-22f5-4cb8-98fb-9652ea0b3330" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04dae940-53ba-4c51-b901-923ba1e6eca0" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86f703fd-a790-42dc-9037-87374d36f497" />
