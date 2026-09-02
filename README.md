@@ -6,8 +6,7 @@
 
 I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/55d2860a-47b7-44e4-a144-2f119717be2e" /> Socials <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/495faff3-da7d-405c-a1be-daaf82e021c6" />
-
+## Connect with me!
 www.linkedin.com/in/sarah-lopez-martinez-8105a52b0
 
 I'm based in Charlotte, North Carolina
@@ -40,13 +39,11 @@ You can contact me at sarahlopez15468@gmail.com
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04dae940-53ba-4c51-b901-923ba1e6eca0" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86f703fd-a790-42dc-9037-87374d36f497" />
 
-<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/db7c7142-041b-445f-a23e-3366c9a30d6f" />
-## Languages 
-<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/c5021049-6149-4a3d-8d29-8133f672e12f" />
+## Languages
 
 - English - Spanish -
 
 ## Open Source Intelligence Tools 
 - FTK Imager - Autopsy - ExifTool -
 
--->
+
