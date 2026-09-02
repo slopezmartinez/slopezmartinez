@@ -1,4 +1,4 @@
-<img width="1686" height="195" alt="ascii-art-text" src="https://github.com/user-attachments/assets/824938e3-3f14-4298-aaac-3c99da7097ba" />
+<img width="200" height="200" alt="ascii-art-text" src="https://github.com/user-attachments/assets/824938e3-3f14-4298-aaac-3c99da7097ba" />
 ##About Me 
 🏫 I am a current student of the University of North Carolina at Charlotte.
 I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
