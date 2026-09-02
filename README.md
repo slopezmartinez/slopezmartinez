@@ -14,7 +14,7 @@ You can contact me at sarahlopez15468@gmail.com
 📄 I'm currently studying for my CompTIA A+ and Security+ exam to get before I graduate. 
   
 ## </> Programming Languages </>
-<img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/1bcc858e-fd48-4e22-ba45-e54c3f8c50d6" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/180e263e-e3d6-4b90-b903-aa682e0132c0" />
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/c0aab71a-e870-4e2c-9ea7-c02478d7f742" />
 <img width="327" height="611" alt="image" src="https://github.com/user-attachments/assets/0025ea6f-9b5f-40dc-b537-8cb438563654" />
 <img width="860" height="486" alt="image" src="https://github.com/user-attachments/assets/46af87ea-8ec1-4a05-b086-964bebe25dc5" />
