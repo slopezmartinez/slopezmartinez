@@ -49,15 +49,16 @@ operational readiness.
 # Connect with me!
 www.linkedin.com/in/sarah-lopez-martinez-8105a52b0
 
-I'm based in Charlotte, North Carolina
+I'm based in Charlotte, North Carolina.
+
 You can contact me at sarahlopez15468@gmail.com
 
 # Projects I'm working on and what I'm currently learning!
-🛡️ I’m currently working on A SIEM at home project using a cowrie honeypot with three virtual machines on VirtualBox.
+🛡️ I’m currently working on A SIEM at home project using a cowrie honeypot with three virtual machines on Oracle's VirtualBox.
 
 🔧I’m currently learning Amazon Web Services, Back-end Application Development. 
 
-📄 I'm currently studying for my CompTIA A+ and Security+ exam to get before I graduate. 
+📄 I'm currently studying for the CompTIA A+ and Security+ exam. 
 
 # Technical Skills
   
