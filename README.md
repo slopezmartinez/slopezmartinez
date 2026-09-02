@@ -6,6 +6,8 @@
 
 I will be graduating in December of 2026 with a Bachelor's of Science Concentrating on Cyber Security.
 
+My previous education was at Central Piedmont Community College where I earned my Associate's Degree of Arts in May of 2024.
+
 ## Connect with me!
 www.linkedin.com/in/sarah-lopez-martinez-8105a52b0
 
@@ -46,5 +48,27 @@ You can contact me at sarahlopez15468@gmail.com
 
 ## Open Source Intelligence Tools 
 - FTK Imager - Autopsy - ExifTool -
+
+
+## Work Experience
+### Starship Technologies              
+#### Junior Technician  |  Charlotte, NC | August 2025 – May 2026 
+• Performed root cause analysis on software and hardware malfunctions to identify and document defects. 
+• Serviced delivery robots regularly, including replacing CPU fans and disassembling chassis and housings to 
+access internal components for repair.  
+• Installed cameras, radars, and lids/panels on robots to maintain sensor accuracy and unit integrity.  
+• Built delivery robots from the ground up, including installing the motherboard, CPU, chassis, cameras, and radars 
+to prepare the unit for field deployment. 
+
+### Starship Technologies  
+#### IT Support / Fleet Attendant  |  Charlotte, NC | January 2025 – August 2025 
+• Serve as primary on-site point of contact for merchant and restaurant managers, maintaining consistent 
+communication to resolve operational issues unknown to the broader technical team. 
+• Troubleshoot and diagnose hardware and software issues across tablets, phones, and printers in both field and 
+lab environments. 
+• Rescued stranded or malfunctioning robots in the field and cleaned out delivery liners to maintain hygiene and 
+operational readiness. 
+• Collaborated with technical teams to escalate findings and optimize overall fleet performance. 
+
 
 
