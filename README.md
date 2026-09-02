@@ -1,6 +1,6 @@
 <img width="1196" height="196" alt="ascii-art-text" src="https://github.com/user-attachments/assets/824938e3-3f14-4298-aaac-3c99da7097ba" />
 
-## About Me
+# About Me
 
 🏫 I am a current student of the University of North Carolina at Charlotte.
 
@@ -8,7 +8,15 @@ I will be graduating in December of 2026 with a Bachelor's of Science Concentrat
 
 My previous education was at Central Piedmont Community College where I earned my Associate's Degree of Arts in May of 2024.
 
-## Work Experience
+# Work Experience
+
+### iCode School
+#### Instructor | Concord, NC | August 2026 - Present
+•	Taught Java and Python fundamentals to K–12 students, translating core programming concepts (variables, loops, functions) into hands-on projects .
+•	Tested and debugged all curriculum code and project files prior to instruction, catching errors and ensuring functional, deployable examples for each lesson.
+•	Delivered technical instruction independently across multiple partner school sites, managing scheduling and classroom setup with minimal oversight.
+•	Evaluated student progress and communicated meaningful feedback through status reports to parents, while managing classroom dynamics and engagement.
+
 ### Starship Technologies              
 #### Junior Technician  |  Charlotte, NC | August 2025 – May 2026 
 • Performed root cause analysis on software and hardware malfunctions to identify and document defects. 
@@ -28,25 +36,21 @@ lab environments.
 operational readiness. 
 • Collaborated with technical teams to escalate findings and optimize overall fleet performance.
 
-### iCode School
-#### Instructor | Concord, NC | August 2026 - Present
-•	Taught Java and Python fundamentals to K–12 students, translating core programming concepts (variables, loops, functions) into hands-on projects .
-•	Tested and debugged all curriculum code and project files prior to instruction, catching errors and ensuring functional, deployable examples for each lesson.
-•	Delivered technical instruction independently across multiple partner school sites, managing scheduling and classroom setup with minimal oversight.
-•	Evaluated student progress and communicated meaningful feedback through status reports to parents, while managing classroom dynamics and engagement.
 
-## Connect with me!
+# Connect with me!
 www.linkedin.com/in/sarah-lopez-martinez-8105a52b0
 
 I'm based in Charlotte, North Carolina
 You can contact me at sarahlopez15468@gmail.com
 
-## Projects I'm working on and what I'm currently learning!
+# Projects I'm working on and what I'm currently learning!
 🛡️ I’m currently working on A SIEM at home project using a cowrie honeypot with three virtual machines on VirtualBox.
 
 🔧I’m currently learning Amazon Web Services, Back-end Application Development. 
 
 📄 I'm currently studying for my CompTIA A+ and Security+ exam to get before I graduate. 
+
+# Technical Skills
   
 ## </> Programming Languages </>
 - Java - Python - SQL -
@@ -69,10 +73,9 @@ You can contact me at sarahlopez15468@gmail.com
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04dae940-53ba-4c51-b901-923ba1e6eca0" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86f703fd-a790-42dc-9037-87374d36f497" />
 
-## Languages
-
-- English - Spanish -
-
 ## Open Source Intelligence Tools 
 - FTK Imager - Autopsy - ExifTool -
+
+# Languages
+- English - Spanish -
 
