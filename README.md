@@ -51,6 +51,7 @@ www.linkedin.com/in/sarah-lopez-martinez-8105a52b0
 
 I'm based in Charlotte, North Carolina.
 
+
 You can contact me at sarahlopez15468@gmail.com
 
 # Projects I'm working on and what I'm currently learning!
