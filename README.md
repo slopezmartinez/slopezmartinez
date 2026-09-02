@@ -56,6 +56,8 @@ You can contact me at sarahlopez15468@gmail.com
 
 # Projects I'm working on and what I'm currently learning!
 🛡️ I’m currently working on a Security Information and Event Management system (SIEM) using a cowrie honeypot with three virtual machines on Oracle's VirtualBox.
+
+
 🛡️ A Phishing simulator using Python with the smtplib library to send mock emails and Flask to host the fake landing page for click tracking.
 
 🔧I’m currently learning Amazon Web Services (AWS) and Back-end Application Development. 
