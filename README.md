@@ -78,14 +78,14 @@ You can contact me at sarahlopez15468@gmail.com
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b919abf6-67bf-499d-83dd-77a692ae0f83" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d416d034-9bc6-41d6-ae53-3d2dca351d2f" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4364ea9b-4874-4f97-a4b6-e0b1677a9b50" />
-
-## Project Management & Documentation 
-- Jira - Confluence -
   
 ## Microsoft Office Suite: Excel, Word, PowerPoint
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d80e656-22f5-4cb8-98fb-9652ea0b3330" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04dae940-53ba-4c51-b901-923ba1e6eca0" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/86f703fd-a790-42dc-9037-87374d36f497" />
+
+## Project Management & Documentation 
+- Jira - Confluence -
 
 ## Open Source Intelligence Tools 
 - FTK Imager - Autopsy - ExifTool -
